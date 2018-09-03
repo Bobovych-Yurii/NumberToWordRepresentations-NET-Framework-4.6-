@@ -1,0 +1,9 @@
+D:\projects\CSharp\Новая папка (2)\NumberToWordRepresentations\NumberToWordRepresentations\bin\Debug\NumberToWordRepresentations.exe.config
+D:\projects\CSharp\Новая папка (2)\NumberToWordRepresentations\NumberToWordRepresentations\bin\Debug\NumberToWordRepresentations.pdb
+D:\projects\CSharp\Новая папка (2)\NumberToWordRepresentations\NumberToWordRepresentations\obj\Debug\NumberToWordRepresentations.csproj.CoreCompileInputs.cache
+D:\projects\CSharp\Новая папка (2)\NumberToWordRepresentations\NumberToWordRepresentations\obj\Debug\NumberToWordRepresentations.exe
+D:\projects\CSharp\Новая папка (2)\NumberToWordRepresentations\NumberToWordRepresentations\obj\Debug\NumberToWordRepresentations.pdb
+D:\projects\CSharp\Новая папка (2)\NumberToWordRepresentations\NumberToWordRepresentations\obj\Debug\NumberToWordRepresentations.exe.config
+D:\projects\CSharp\Новая папка (2)\NumberToWordRepresentations\NumberToWordRepresentations\obj\Debug\NumberToWordRepresentations.csprojResolveAssemblyReference.cache
+D:\projects\CSharp\Новая папка (2)\NumberToWordRepresentations\NumberToWordRepresentations\obj\Debug\Newtonsoft.Json.dll
+D:\projects\CSharp\Новая папка (2)\NumberToWordRepresentations\NumberToWordRepresentations\obj\Debug\Newtonsoft.Json.xml

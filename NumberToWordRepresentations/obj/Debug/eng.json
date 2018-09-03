@@ -1,0 +1,99 @@
+{
+  "data": {
+  "1": [
+    "one",
+    "two",
+    "three",
+    "four",
+    "five",
+    "six",
+    "seven",
+    "eight",
+    "nine"
+  ],
+  "10": [
+    "-",
+    "twenty",
+    "thirty",
+    "forty",
+    "fifty",
+    "sixty",
+    "seventy",
+    "eighty",
+    "ninety"
+  ],
+  "100": [
+    "one hundred",
+    "two hundred",
+    "three hundred",
+    "four hundred",
+    "five hundred",
+    "six hundred",
+    "seven hundred",
+    "eight hundred",
+    "nine hundred"
+  ],
+  "1000": [
+    "thousand",
+    "thousand",
+    "thousand",
+    "thousand",
+    "thousand",
+    "thousand",
+    "thousand",
+    "thousand",
+    "thousand"
+  ],
+  "1000000": [
+    "million",
+    "million",
+    "million",
+    "million",
+    "million",
+    "million",
+    "million",
+    "million",
+    "million"
+  ],
+  "1000000000":[
+    "billion",
+    "billion"
+    ],
+    "upCurency": [
+      "dollar",
+      "dollars",
+      "dollars",
+      "dollars",
+      "dollars",
+      "dollars",
+      "dollars",
+      "dollars",
+      "dollars"],
+    "downCurency": [
+      "cent",
+      "cents",
+      "cents",
+      "cents",
+      "cents",
+      "cents",
+      "cents",
+      "cents",
+      "cents"
+    ]
+  },
+  "exception":{
+    "0":"zero",
+    "10":"ten",
+    "11":"eleven",
+    "12":"twelve",
+    "13":"thirteen",
+    "14":"fourteen",
+    "15":"fifteen",
+    "16":"sixteen",
+    "17":"seventeen",
+    "18":"eighteen",
+    "19":"nineteen"
+    },
+  "separator": ".",
+  "textseparator":" and "
+}
