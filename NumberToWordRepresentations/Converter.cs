@@ -25,11 +25,12 @@ namespace NumberToWordRepresentations
                 throw new ConsoleExeption("bad number");
             }
             var numbers = numberInString.Split(LanguageModel.separator[0]);
-			if(numbers[1].Length > 2)
-				throw new ConsoleExeption("bad number");
+			
 			try
 			{
-                var upper = System.Convert.ToInt32(numbers[0]);
+				if (numbers[1].Length > 2)
+					throw new ConsoleExeption("bad number");
+				var upper = System.Convert.ToInt32(numbers[0]);
                 var lower = System.Convert.ToInt32(numbers[1]);
                 lower = lower < 10 ? lower*10 : lower;
                 return LanguageModel.GetNumString(upper,lower);

@@ -70,7 +70,7 @@ namespace NumberToWordRepresentations
         public static LanguageModel GetLangModelFromFile(string language){
             if(!langPath.ContainsKey(language)) throw new ConsoleExeption("no such language package");
             var jsonObj = GetJsonFromFile(langPath[language]);
-            return new LanguageModel(jsonObj,langPath.First().Key);
+            return new LanguageModel(jsonObj, language);
         }
         public static IEnumerable<string> GetLanguagesEnumerable(){
             return langPath.Keys;

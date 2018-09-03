@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace NumberToWordRepresentations
 {
@@ -6,8 +7,8 @@ namespace NumberToWordRepresentations
 	{
 		static void Main(string[] args)
 		{
-			Console.OutputEncoding = System.Text.Encoding.UTF8;
-			Console.WriteLine("/help to see all commands\n"+ "current language: " + Converter.LanguageModel.Language);
+			Console.OutputEncoding = new System.Text.UTF8Encoding();
+			Console.WriteLine("/help to see all commands\n" + "current language: " + Converter.LanguageModel.Language);
 			string input;
 			while (true)
 			{
